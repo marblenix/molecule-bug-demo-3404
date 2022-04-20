@@ -1,4 +1,4 @@
-ansible-compat @ git+https://github.com/ansible/ansible-compat@05d94d4d1b484b05c53c9b5844e4187d9872c258
+ansible-compat==2.0.2
 ansible-core @ git+https://github.com/ansible/ansible@4d69c09695c8f78b95edf51314999be3c19b62eb
 ansible-lint==6.0.2
 arrow==1.2.2
@@ -27,7 +27,7 @@ Jinja2==3.1.1
 jinja2-time==0.2.0
 MarkupSafe==2.1.1
 mccabe==0.6.1
-molecule @ git+https://github.com/ansible-community/molecule@64494cf97f36a37d03c506679fb58b34b9a935f1
+molecule @ git+https://github.com/marblenix/molecule@78459a7285948136695068285a7001be638799a8
 molecule-docker==1.1.0
 nodeenv==1.6.0
 packaging==21.3
